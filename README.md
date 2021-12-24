@@ -12,7 +12,7 @@
 
 ##### BIO
 
-- 🏢 Previously worked as Software Developer Level 2 at [Yocket](https://yocket.com/)
+- 🏢 Previously, worked as Software Developer Level 2 at [Yocket](https://yocket.com/)
 - ⚙️ I use: `.java`, `.py`, `.js`, `.html`, `.css`, `.sql`
 - 👨‍🏫 Worked as a Teaching Assistant for the course CS 4500 Software Development with Professor [Matthias Felleisen](https://en.wikipedia.org/wiki/Matthias_Felleisen) & Professor [Ben Lerner](https://www.khoury.northeastern.edu/people/benjamin-lerner/) - Fall 2021
 - 🌱 Learning all about **Algorithms, Language Semantics, Compilers, Data Science and more**
