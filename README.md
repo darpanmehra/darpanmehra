@@ -6,7 +6,7 @@
 - ☃️ Living in San Francisco, California
 - 🧑‍💻 Software Engineer at Salesforce
 - 📚 Masters in Computer Science from Northeastern University, Boston (GPA - 4.00)
-- 🥽 Developed Virtual Reality apps 
+- 🥽 Developed Virtual Reality apps [VR Soccer](https://github.com/darpanmehra/VRSoccer) & [Beat Diamonds](https://github.com/darpanmehra/VR-Game)
 - 👾 Developed [Adventure Game](https://github.com/darpanmehra/GraphicalAdventureGame-ObjectOrientedProgramming) using Java;
 - ✨ Experimented [American Sign Language Classification using ML Algorithms](https://github.com/darpanmehra/AmericanSignLanguageClassificationUsingML);
 
